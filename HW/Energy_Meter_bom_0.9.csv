@@ -1,0 +1,63 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Mouser Ref,Price
+1,"Unpolarized capacitor, small symbol",C_Small,C2 C3,220pF,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,
+2,"Unpolarized capacitor, small symbol",C_Small,C4 C5,470pF,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,
+3,"Unpolarized capacitor, small symbol",C_Small,C15 C17 C19 C20 C21,100nF,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,5,~,,
+4,"Unpolarized capacitor, small symbol",C_Small,C10 C12,270nF,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,
+5,"Unpolarized capacitor, small symbol",C_Small,C8 C9 C11 C23,1uF,C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,4,~,,
+6,"Polarized capacitor, small symbol",CP_Small,C1 C16 C18,10uF,C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,3,~,,
+7,"Unpolarized capacitor, small symbol",C_Small,C6 C7,10uF,C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,2,~,,
+8,"Unpolarized capacitor, small symbol",C_Small,C26,1nF/400V,C_Rect_L11.0mm_W2.8mm_P10.00mm_MKT,1,~,,
+9,"Polarized capacitor, small symbol",CP_Small,C27 C28,470uF/25V,CP_Elec_10x10,2,~,,
+10,"Unpolarized capacitor, small symbol",C_Small,C13 C14,C_Small,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,
+11,"High-speed switching diodes, dual series, SOT-363",BAV99S,D1 D2 D3,BAV99S,SOT-363_SC-70-6,3,https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf,,
+12,"Light emitting diode, small symbol",LED_Small,D4 D5,LED_Small,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,
+13,"Fuse, small symbol",Fuse_Small,F1,Fuse_Small,Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder,1,https://www.mouser.fr/datasheet/2/358/typ_UMF_250-1275961.pdf,,
+14,"Ferrite bead, small symbol",Ferrite_Bead_Small,FB1 L1,Ferrite_Bead_Small,L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,
+15,"Audio Jack, 3 Poles (Stereo / TRS)",AudioJack3,J3 J4,AudioJack3,Jack_3.5mm_CUI_SJ1-3533NG_Horizontal,2,https://www.mouser.fr/datasheet/2/670/sj1_353xng-1778850.pdf,490-SJ1-3533NG,0.98
+16,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02_Female,J7,Conn_01x02_Female,"PhoenixContact_MCV_1,5_2-G-5.08_1x02_P5.08mm_Vertical",1,~,,
+17,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03_Female,J1 J2,Conn_01x03_Female,"PhoenixContact_MCV_1,5_3-G-5.08_1x03_P5.08mm_Vertical",2,~,,
+18,"Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x07_Female,J6,Conn_01x07_Female,PinHeader_1x07_P2.54mm_Vertical,1,~,,
+19,Micro SD Card Socket with card detection pins,Micro_SD_Card_Det_Hirose_DM3AT,J5,Micro_SD_Card_Det_Hirose_DM3AT,microSD_HC_Hirose_DM3AT-SF-PEJM5,1,https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1,,
+20,3 Watt Single Output EMC Class B AC/DC power supply with regulated and short-circuit-proof isolated DC outputs and low standby power consumption.,RAC03-3.3SGB,PS1,RAC03-3.3SK,RAC03-XXSGB,1,https://www.mouser.fr/datasheet/2/468/RAC03-K-1711241.pdf,919-RAC03-3.3SK,5.09
+21,"Four pin crystal, GND on pins 2 and 4",Crystal_GND24,Q1,ECS-163-18-5PXEN-TR,,1,~,,
+22,"-4.4A Id, -40V Vds, P-Channel MOSFET, SOT-23",Si2319CDS,Q2 Q3,Si2305CDS,SOT-23W_Handsoldering,2,https://www.vishay.com/docs/70833/70833.pdf,,
+23,"P-MOSFET transistor, gate/source/drain",Q_PMOS_GSD,Q4,Si2315,SOT-23W_Handsoldering,1,~,,
+24,"Resistor, small symbol",R_Small,R40,4.7,R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,1,~,,
+25,Resistor,R,R3 R4,33,R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,2,~,,
+26,"Resistor, small symbol",R_Small,R31 R34 R35 R37,220,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,4,~,,
+27,"Resistor, small symbol",R_Small,R25 R26 R27 R28 R30,750,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,5,~,,
+28,"Resistor, small symbol",R_Small,R32,4K7,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1,~,,
+29,"Resistor, small symbol",R_Small,R36 R38,10K,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,
+30,"Resistor, small symbol",R_Small,R24,47K,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1,~,,
+31,"Resistor, small symbol",R_Small,R29 R33,100K,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,
+32,"Resistor, small symbol",R_Small,R1 R2 R5 R6 R9 R10,220K,R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,6,~,,
+33,"Resistor, small symbol",R_Small,R13 R14 R21 R22,10K/0.1%,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,4,~,,
+34,"Resistor, small symbol",R_Small,R15 R16,1K/0.1%,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,
+35,"Resistor, small symbol",R_Small,R17 R18,3K3/0.1%,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,
+36,Resistor,R,R7 R8,500/0.1%,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,
+37,"Resistor, small symbol",R_Small,R23,50K/0.1%,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1,~,,
+38,"Resistor, small symbol",R_Small,R19 R20,5K/0.1%,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,~,,
+39,"Resistor, small symbol",R_Small,R11 R12,800/0.1%,R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,2,~,,
+40,Shunt resistor,R_Shunt,R41,CSS4J,CSS4J-4026R-1L00F,1,https://www.mouser.fr/datasheet/2/54/css4j-4026-1862184.pdf,652-CSS4J4026K5L00F,1.49
+41,"6 resistor network, star topology, bussed resistors, small symbol",R_Network06,RN1,4K7,R_Array_SIP7,1,http://www.vishay.com/docs/31509/csc.pdf,,
+42,Voltage dependent resistor,Varistor,RV1,Varistor,RV_Disc_D15.5mm_W3.9mm_P7.5mm,1,~,,
+43,"Push button switch, generic, two pins",SW_Push,SW1 SW2,SW_Push,SW_Push_1P1T_NO_CK_KMR2,2,~,,
+44,"Precision Micropower, Low Noise CMOS, Rail-to-Rail Input/Output Operational Amplifier, TSOT-23-5",AD8603,U1,AD8603,TSOT-23-5_HandSoldering,1,http://www.analog.com/media/en/technical-documentation/data-sheets/AD8603_8607_8609.pdf,,
+45,"ADS131A0x2- or 4-Channel,24-Bit,128-kSPS,Simultaneous-Sampling,Delta-SigmaADC",ADS131A02,U2,ADS131A02,LQFP-32_5x5mm_P0.5mm,1,http://www.ti.com/lit/ds/symlink/ads131a02.pdf,,
+46,,"ESP32-WROVER(_PCB,_IPEX,-xB)_and_ESP-WROOM-32-Universal-OLIMEX_Cases",U3,"ESP32-WROVER(_PCB,_IPEX,-xB)_and_ESP-WROOM-32-Universal-OLIMEX_Cases",ESP-WROOM-32_MODULE,1,,,
+
+
+
+
+
+Component Groups:,46
+Component Count:,92
+Fitted Components:,92
+Number of PCBs:,1
+Total components:,92
+Schematic Version:,0.9
+Schematic Date:,2020-04-17
+PCB Variant:,['default']
+BoM Date:,lun. 02 nov. 2020 00:08:37 CET
+Schematic Source:,Energy_Meter.sch
+KiCad Version:,Eeschema 5.1.7-a382d34a8~87~ubuntu18.04.1
